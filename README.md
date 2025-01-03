@@ -25,6 +25,7 @@ Each name is an individual project, including documentation, code, and related a
 |--------------------------|-------------|-----------|
 | Community Bulletin Board |             | Completed |
 | Liar game                |             | Planned   |
+
 You can navigate to each project's folder for detailed information.
 
 🤝 Contributing
