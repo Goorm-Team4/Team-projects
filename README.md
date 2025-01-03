@@ -20,6 +20,10 @@ Liar game
 
 Each name is an individual project, including documentation, code, and related assets.
 
+## 🗎 Details
+For more detailed information, please refer to the Wiki page.  
+➡️ [Wiki page](https://github.com/Goorm-Team4/Team-projects/wiki)
+
 ### 🚀 Projects Overview
 | Project Name             | Description | Status    |
 |--------------------------|-------------|-----------|
@@ -34,6 +38,7 @@ Contributions from team members are welcome! Follow these steps to contribute:
 Clone the repository.
 Create or update project documentation in the appropriate folder.
 Submit a pull request for review.
+
 📧 Contact
-For any questions or suggestions, feel free to reach out to the team at team-email@example.com.
+For any questions or suggestions, feel free to reach out to the team at ro_keonwoo@korea.ac.kr
 
